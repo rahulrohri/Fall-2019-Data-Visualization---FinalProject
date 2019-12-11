@@ -1,0 +1,14 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
+os
+matplotlib.pyplot
+plotly.express
+random
+matplotlib.lines
+matplotlib.transforms
+bqplot
+traitlets
+ipywidgets
+interact
